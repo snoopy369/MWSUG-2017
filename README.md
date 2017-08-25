@@ -1,8 +1,8 @@
-# SESUG-2016
-SAS programs for SESUG papers in 2016
+# MWSUG-2017
+SAS programs for MWSUG papers in 2017
 
-This includes the two papers I wrote for SESUG-2016 (Bethesda), "Flexible Programming with Hash Tables" (CC-230) and "Writing Code With Your Data" (BB-229).
+This includes the paper I wrote for MWSUG-2017 (St. Louis), "Writing Code With Your Data" (Paper 116).  This paper was originally written for SESUG 2016 and is a nearly identical copy of that paper.
 
-PDFs and Powerpoints for both are included here, as well as the code presented in the papers in two formats.  .ZIP files with .SAS files inside of them, and .EGP files which are compatible with EG 7.1 and newer.
+PDF and Powerpoint versions are included here, as well as the code presented in the paper in two formats. A .ZIP file with .SAS files inside of it, and an .EGP project which is compatible with EG 7.1 and newer.
 
 Please contact the author (matise.joe@gmail.com) with any questions.
